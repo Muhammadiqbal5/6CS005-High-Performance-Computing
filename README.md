@@ -1,2 +1,2 @@
-# Computer-science-Software-engineering-
-Software Engineering involves the use of principles from the field of engineering in the development of computer software.
+# 6CS005-High-Performance-Computing
+This module will further develop your knowledge and understanding of Concurrent Systems. It will cover advanced topics drawn from the latest developments in High Performance Computing such as GPUs, FPGAs and computer clusters. Research will include investigation of the current state of these technologies and the development, implementation and performance testing of programs that use them to maximise performance.
